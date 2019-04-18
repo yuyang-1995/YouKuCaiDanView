@@ -8,57 +8,52 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-   <LinearLayout
-       android:id="@+id/ll_se"
-       android:background="@drawable/bg_ji"
-       android:layout_width="match_parent"
-       android:layout_height="wrap_content"
-       android:orientation="vertical"
-       >
-    <TextView
-        android:id="@+id/tv_input"
+    <LinearLayout
+        android:id="@+id/ll_se"
+        android:background="@drawable/bg_ji"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/et_output"
-        android:layout_alignParentTop="true"
-        android:layout_alignRight="@+id/et_output"
-        android:background="#666"
-        android:text=" "
-        android:textColor="#fff"
-        android:textSize="20dp"
-        android:textAppearance="?android:attr/textAppearanceLarge" />
+        android:orientation="vertical"
+        >
+        <EditText
+            android:id="@+id/input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="4"
+            android:background="@null"
+            android:gravity="end"
+            android:inputType="none"
+            android:textColor="#ffffff"
+            android:textSize="24sp" />
 
-    <EditText
-        android:id="@+id/et_output"
-        android:layout_width="match_parent"
-        android:layout_height="40dp"
-        android:layout_below="@+id/tv_input"
-        android:background="#666"
-        android:ems="10"
-        android:focusable="false"
-        android:singleLine="true"
-        android:textColor="#000"
-        android:textSize="28dp" />
+        <TextView
+            android:id="@+id/output"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="6"
+            android:gravity="end"
+            android:textColor="#faf79b"
+            android:textSize="50sp" />
 
-   </LinearLayout>
+    </LinearLayout>
 
     <LinearLayout
         android:id="@+id/ll_firstRow"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/ll_se"
-        android:layout_marginTop="0dp"
+        android:layout_marginTop="10dp"
         android:padding="10dp"
         >
 
         <Button
-            android:id="@+id/button17"
+            android:id="@+id/txtClear"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="#a10b39"
             android:padding="10dp"
-            android:text="√"
+            android:text="AC"
             android:textColor="#fff"
             android:textSize="28dp"
             />
@@ -68,35 +63,7 @@
             android:layout_height="match_parent"/>
 
         <Button
-            android:id="@+id/button18"
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:background="#a10b39"
-            android:padding="10dp"
-            android:text="±"
-            android:textColor="#fff"
-            android:textSize="28dp" />
-        <View
-            android:layout_width="2dp"
-            android:layout_height="match_parent"/>
-
-        <Button
-            android:id="@+id/button19"
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:background="#a10b39"
-            android:padding="10dp"
-            android:text="CE"
-            android:textColor="#fff"
-            android:textSize="28dp" />
-        <View
-            android:layout_width="2dp"
-            android:layout_height="match_parent"/>
-
-        <Button
-            android:id="@+id/button20"
+            android:id="@+id/txtDel"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -105,7 +72,34 @@
             android:text="←"
             android:textColor="#fff"
             android:textSize="28dp" />
+        <View
+            android:layout_width="2dp"
+            android:layout_height="match_parent"/>
 
+        <Button
+            android:id="@+id/txtLeft"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#a10b39"
+            android:padding="10dp"
+            android:text="("
+            android:textColor="#fff"
+            android:textSize="28dp" />
+        <View
+            android:layout_width="2dp"
+            android:layout_height="match_parent"/>
+
+        <Button
+            android:id="@+id/txtRight"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#a10b39"
+            android:padding="10dp"
+            android:text=")"
+            android:textColor="#fff"
+            android:textSize="28dp" />
 
     </LinearLayout>
 
@@ -114,12 +108,12 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/ll_firstRow"
-         android:paddingLeft="10dp"
+        android:paddingLeft="10dp"
         android:paddingRight="10dp"
         >
 
         <Button
-            android:id="@+id/button9"
+            android:id="@+id/txt7"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -136,7 +130,7 @@
 
 
         <Button
-            android:id="@+id/button10"
+            android:id="@+id/txt8"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -151,7 +145,7 @@
 
 
         <Button
-            android:id="@+id/button11"
+            android:id="@+id/txt9"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -166,13 +160,13 @@
 
 
         <Button
-            android:id="@+id/button14"
+            android:id="@+id/txtDiv"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="#d89218"
             android:padding="10dp"
-            android:text="÷"
+            android:text="/"
             android:textColor="#fff"
             android:textSize="28dp" />
 
@@ -190,7 +184,7 @@
         >
 
         <Button
-            android:id="@+id/button6"
+            android:id="@+id/txt4"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -207,7 +201,7 @@
 
 
         <Button
-            android:id="@+id/button7"
+            android:id="@+id/txt5"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -222,7 +216,7 @@
 
 
         <Button
-            android:id="@+id/button8"
+            android:id="@+id/txt6"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -237,13 +231,13 @@
 
 
         <Button
-            android:id="@+id/button15"
+            android:id="@+id/txtMul"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="#d89218"
             android:padding="10dp"
-            android:text="×"
+            android:text="*"
             android:textColor="#fff"
             android:textSize="28dp" />
 
@@ -261,7 +255,7 @@
         >
 
         <Button
-            android:id="@+id/button1"
+            android:id="@+id/txt1"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -275,7 +269,7 @@
             android:layout_height="match_parent"/>
 
         <Button
-            android:id="@+id/button3"
+            android:id="@+id/txt2"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -292,7 +286,7 @@
 
 
         <Button
-            android:id="@+id/button5"
+            android:id="@+id/txt3"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -307,7 +301,7 @@
 
 
         <Button
-            android:id="@+id/button16"
+            android:id="@+id/txtMinus"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -331,7 +325,7 @@
         >
 
         <Button
-            android:id="@+id/button12"
+            android:id="@+id/txt0"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -345,7 +339,7 @@
             android:layout_height="match_parent"/>
 
         <Button
-            android:id="@+id/button13"
+            android:id="@+id/txtDot"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -362,7 +356,7 @@
 
 
         <Button
-            android:id="@+id/button4"
+            android:id="@+id/txtIs"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -376,7 +370,7 @@
             android:layout_height="match_parent"/>
 
         <Button
-            android:id="@+id/button2"
+            android:id="@+id/txtPlus"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -404,6 +398,7 @@
             android:text="Kalkulator"
             android:textColor="#fff"
             android:textSize="20dp"
+            android:textAllCaps="false"
             android:background="@drawable/bg_press"
             android:layout_height="wrap_content" />
 
@@ -416,8 +411,9 @@
             android:id="@+id/btn_go"
             android:layout_weight="1"
             android:layout_width="0dp"
-            android:text="pinjaman"
+            android:text="Pinjaman"
             android:textColor="#fff"
+            android:textAllCaps="false"
             android:textSize="20dp"
             android:background="@drawable/btn_bg"
             android:layout_height="wrap_content" />

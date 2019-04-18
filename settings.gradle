@@ -1,1 +1,1 @@
-include ':app', ':guanggaoview', ':handlerdemo', ':xialakuangview', ':popupwindowview', ':wxpopupwindowview', ':popupwindowviewtest01', ':toucheventdemo', ':huilvjisuan', ':kaiguanview', ':jisuanqimodele'
+include ':app', ':guanggaoview', ':handlerdemo', ':xialakuangview', ':popupwindowview', ':wxpopupwindowview', ':popupwindowviewtest01', ':toucheventdemo', ':huilvjisuan', ':kaiguanview', ':jisuanqimodele', ':jisuanqidemo2', ':gesturedetectordemo'

@@ -21,8 +21,10 @@ import android.view.View;
  *  * 根据上面两个方法参数，进入绘制
  */
 public class MyToggleButton extends View implements View.OnClickListener{
+
     private Bitmap backgrooundBitmap;
     private Bitmap slideingBitmap;
+    Paint p;
 
     /**
      * 距离左边最大距离
@@ -40,8 +42,14 @@ public class MyToggleButton extends View implements View.OnClickListener{
 
     public MyToggleButton(Context context) {
         super(context);
+        initView();
     }
 
+    /**
+     * 如果我们在布局文件使用该类，将会用这个构造方法实例该类，如果没有就崩溃
+     * @param context
+     * @param attrs
+     */
     public MyToggleButton(Context context, AttributeSet attrs) {
         super(context, attrs);
         initView();
@@ -54,6 +62,8 @@ public class MyToggleButton extends View implements View.OnClickListener{
         paint.setAntiAlias(true);
         backgrooundBitmap = BitmapFactory.decodeResource(getResources(), R.drawable.switch_background);
         slideingBitmap = BitmapFactory.decodeResource(getResources(), R.drawable.slide_button);
+
+        slideLeftMax = backgrooundBitmap.getWidth() - slideingBitmap.getWidth();
         //给自定义View注册点击监听
         setOnClickListener(this);
     }
@@ -90,7 +100,6 @@ public class MyToggleButton extends View implements View.OnClickListener{
     public void onClick(View v) {
         if (isEnableClick){
             isOpen = !isOpen;
-
             flushView();
          }
      }
@@ -110,15 +119,14 @@ public class MyToggleButton extends View implements View.OnClickListener{
 
     @Override
     public boolean onTouchEvent(MotionEvent event) {
-         super.onTouchEvent(event);
+       //  super.onTouchEvent(event);
 
         switch (event.getAction()){
             case  MotionEvent.ACTION_DOWN:
                 //1.记录触摸事件按下的坐标
                 isEnableClick = true;
                 lastX  = startX = event.getX();
-
-                break;
+                  break;
 
             case MotionEvent.ACTION_MOVE:
 
@@ -140,18 +148,29 @@ public class MyToggleButton extends View implements View.OnClickListener{
                 //数据还原
                 startX = event.getX();
 
-                if (Math.abs(endX - startX) > 5){
+                if (Math.abs(endX - lastX) > 5){
                     //滑动
                     isEnableClick = false;
                 }
 
                 break;
+
+                case MotionEvent.ACTION_UP:
+
+                    if (!isEnableClick){
+
+                        if (slideLeft > slideLeftMax/2){
+                            isOpen = true;
+                        }else {
+                            isOpen = false;
+                        }
+
+                        flushView();
+                    }
+                    break;
         }
 
 
         return  true;
-
-
-
-    }
+ }
 }

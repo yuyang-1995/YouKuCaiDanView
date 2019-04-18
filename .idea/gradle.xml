@@ -9,9 +9,11 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/gesturedetectordemo" />
             <option value="$PROJECT_DIR$/guanggaoview" />
             <option value="$PROJECT_DIR$/handlerdemo" />
             <option value="$PROJECT_DIR$/huilvjisuan" />
+            <option value="$PROJECT_DIR$/jisuanqidemo2" />
             <option value="$PROJECT_DIR$/jisuanqimodele" />
             <option value="$PROJECT_DIR$/kaiguanview" />
             <option value="$PROJECT_DIR$/popupwindowview" />
