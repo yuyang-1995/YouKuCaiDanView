@@ -2,11 +2,12 @@
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/ll_main"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="#010b13"
+    android:background="#bcd8ef"
     tools:context=".MainActivity">
 
     <ListView
@@ -21,21 +22,20 @@
         android:layout_weight="4"
         android:visibility="gone"
         >
-
     </ListView>
+
 
     <TextView
         android:id="@+id/tv_empty"
-        android:text="无记录"
-        android:textColor="@android:color/white"
-        android:textSize="24dp"
-        android:layout_marginTop="20dp"
-        android:layout_gravity="center"
-        android:gravity="center|bottom"
-        android:background="@drawable/empty"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
-
+        android:layout_height="wrap_content"
+        android:text="账单为空..."
+        android:textSize="20dp"
+        android:gravity="center"
+        android:layout_marginTop="200dp"
+        android:layout_gravity="center"
+        android:textColor="@android:color/white"
+        />
 
     <RelativeLayout
         android:layout_width="match_parent"

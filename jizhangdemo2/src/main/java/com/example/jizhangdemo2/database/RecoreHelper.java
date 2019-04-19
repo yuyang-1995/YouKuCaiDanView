@@ -1,4 +1,4 @@
-package com.yuyang.jizhangdemo.database;
+package com.example.jizhangdemo2.database;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
@@ -25,10 +25,10 @@ public class RecoreHelper  extends SQLiteOpenHelper {
         db.execSQL(  "CREATE TABLE IF NOT EXISTS  tb_record (record_id integer primary key autoincrement ," +
                 "record_content text not null ," +
                 "record_time text not null ,"   +
-                "record_money integer not null)" );
+                "record_kind text not null," +
+                "record_money text not null)" );
 
         Toast.makeText(mContext, "record.db成功",Toast.LENGTH_SHORT).show();
-
     }
 
     @Override
