@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a1b2e8a684a42a09913c7cf640b1f5d0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e25a14262d181d4b9e56d1d8ae09bc5b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\550524d4baf6df043d2a08adb815664c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\e7b2083fec8a8f7195aa9e0e83297b45\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\b82574cf094dda821d1aad3d060bee82\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\468ce1f34138e71a56f27cce70d52917\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\bbbf9ad2b5f6f268de80a4ace2d0ee1a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\bd9f4292e43db0aebd31482a617be169\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\2d92098ae37f8f38fd34fe589cbbbfb2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\d4dadf57501c5397085c2b16950ffa83\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\91159d53157b3306dee74695b83b9d52\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\1fc15a6098585422b0edab07d9c57ccb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\59b24c5d6d5abb03e6de95ae7a50ba2d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\c05217b70479a28262a0d4c8c81c8276\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\8783c011b0f4a3484f73007c907b6a03\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8f8392e16f97826fc061e5f10f71dd4a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\14cbed1d040b70fb76b0b977a34f63a4\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\6769469c33540b2f3615446389fb78dd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f3dd44515516052a10eae05d1594525f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\0062c76122dc7ac6129527c07a0c42fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\81f220b03d0794e11a38327348ead18d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\6336a1b798e4771dc32c8cc3dbe35b91\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\93bd005c2a6a8d61cd51ece40998c5e3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\d267351e45c27bd04d482adfcd6bec35\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\dfe1f2ae104d12fcdd2c762e08a38be7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\44d1953f8a71f9dcfb1a49094ddce7c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\f78d55300adeea0fe84a47c3b72ca0ff\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml
+		ADDED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml
+		ADDED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e25a14262d181d4b9e56d1d8ae09bc5b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e25a14262d181d4b9e56d1d8ae09bc5b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8f8392e16f97826fc061e5f10f71dd4a\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8f8392e16f97826fc061e5f10f71dd4a\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\14cbed1d040b70fb76b0b977a34f63a4\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\14cbed1d040b70fb76b0b977a34f63a4\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8f8392e16f97826fc061e5f10f71dd4a\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml:11:9-40
+activity#com.yuyang.toucheventtest.MainActivity
+ADDED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml
+INJECTED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a1b2e8a684a42a09913c7cf640b1f5d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a1b2e8a684a42a09913c7cf640b1f5d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e25a14262d181d4b9e56d1d8ae09bc5b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e25a14262d181d4b9e56d1d8ae09bc5b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\550524d4baf6df043d2a08adb815664c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\550524d4baf6df043d2a08adb815664c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\e7b2083fec8a8f7195aa9e0e83297b45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\e7b2083fec8a8f7195aa9e0e83297b45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\b82574cf094dda821d1aad3d060bee82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\b82574cf094dda821d1aad3d060bee82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\468ce1f34138e71a56f27cce70d52917\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\468ce1f34138e71a56f27cce70d52917\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\bbbf9ad2b5f6f268de80a4ace2d0ee1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\bbbf9ad2b5f6f268de80a4ace2d0ee1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\bd9f4292e43db0aebd31482a617be169\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\bd9f4292e43db0aebd31482a617be169\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\2d92098ae37f8f38fd34fe589cbbbfb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\2d92098ae37f8f38fd34fe589cbbbfb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\d4dadf57501c5397085c2b16950ffa83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\d4dadf57501c5397085c2b16950ffa83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\91159d53157b3306dee74695b83b9d52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\91159d53157b3306dee74695b83b9d52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\1fc15a6098585422b0edab07d9c57ccb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\1fc15a6098585422b0edab07d9c57ccb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\59b24c5d6d5abb03e6de95ae7a50ba2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\59b24c5d6d5abb03e6de95ae7a50ba2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\c05217b70479a28262a0d4c8c81c8276\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\c05217b70479a28262a0d4c8c81c8276\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\8783c011b0f4a3484f73007c907b6a03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\8783c011b0f4a3484f73007c907b6a03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8f8392e16f97826fc061e5f10f71dd4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8f8392e16f97826fc061e5f10f71dd4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\14cbed1d040b70fb76b0b977a34f63a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\14cbed1d040b70fb76b0b977a34f63a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\6769469c33540b2f3615446389fb78dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\6769469c33540b2f3615446389fb78dd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f3dd44515516052a10eae05d1594525f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f3dd44515516052a10eae05d1594525f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\0062c76122dc7ac6129527c07a0c42fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\0062c76122dc7ac6129527c07a0c42fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\81f220b03d0794e11a38327348ead18d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\81f220b03d0794e11a38327348ead18d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\6336a1b798e4771dc32c8cc3dbe35b91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\6336a1b798e4771dc32c8cc3dbe35b91\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\93bd005c2a6a8d61cd51ece40998c5e3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\93bd005c2a6a8d61cd51ece40998c5e3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\d267351e45c27bd04d482adfcd6bec35\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\d267351e45c27bd04d482adfcd6bec35\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\dfe1f2ae104d12fcdd2c762e08a38be7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\dfe1f2ae104d12fcdd2c762e08a38be7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\44d1953f8a71f9dcfb1a49094ddce7c9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\44d1953f8a71f9dcfb1a49094ddce7c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\f78d55300adeea0fe84a47c3b72ca0ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\yuyang\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\f78d55300adeea0fe84a47c3b72ca0ff\AndroidManifest.xml:20:5-44
+INJECTED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml
+INJECTED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml
+		ADDED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml
+		ADDED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\AndroidStudio-workspace\CustomViewDemo\YouKuCaiDanView\toucheventtest\src\main\AndroidManifest.xml
