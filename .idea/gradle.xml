@@ -3,27 +3,11 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT" />
+        </compositeConfiguration>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/gesturedetectordemo" />
-            <option value="$PROJECT_DIR$/guanggaoview" />
-            <option value="$PROJECT_DIR$/handlerdemo" />
-            <option value="$PROJECT_DIR$/huilvjisuan" />
-            <option value="$PROJECT_DIR$/jisuanqidemo2" />
-            <option value="$PROJECT_DIR$/jisuanqimodele" />
-            <option value="$PROJECT_DIR$/jizhangdemo2" />
-            <option value="$PROJECT_DIR$/kaiguanview" />
-            <option value="$PROJECT_DIR$/popupwindowview" />
-            <option value="$PROJECT_DIR$/popupwindowviewtest01" />
-            <option value="$PROJECT_DIR$/toucheventdemo" />
-            <option value="$PROJECT_DIR$/wxpopupwindowview" />
-            <option value="$PROJECT_DIR$/xialakuangview" />
-          </set>
-        </option>
         <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>

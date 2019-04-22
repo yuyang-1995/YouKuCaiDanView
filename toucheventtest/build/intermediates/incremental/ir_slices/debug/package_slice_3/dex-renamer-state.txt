@@ -1,0 +1,4 @@
+#Tue Apr 16 00:24:00 GMT+08:00 2019
+base.0=D\:\\Android\\AndroidStudio-workspace\\CustomViewDemo\\YouKuCaiDanView\\toucheventtest\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex
